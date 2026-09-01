@@ -1,4 +1,5 @@
 #Ejercicio 1: Suma de Elementos Escribe un programa que permita al usuario ingresar una lista de números y calcule la suma de todos los elementos en la lista. 
+# Bautista Cano; Mateo Godoy; Alejo Barrozo; Joaquin Lichtenberg
 
 numeros1 = input("Ingrese una lista de números separados por espacios: ").split()
 numeros1 = [float(x) for x in numeros1]

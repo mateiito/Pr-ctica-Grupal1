@@ -1,5 +1,5 @@
 # Trabajo Practico - Listas Bidimensionales
-# Bautista Cano; Mateo Godoy; Alejo Barrozo; Joaquin 
+# Bautista Cano; Mateo Godoy; Alejo Barrozo; Joaquin Lichtenberg
 
 # EJERCICIO 1: Crear una matriz con numeros consecutivos
 
